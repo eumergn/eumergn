@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there! I’m Omer, a cybersecurity enthusiast who loves cracking codes. When I’m not busy defending networks from cyber baddies, you’ll find me juggling multiple languages — not just Python, C and JavaScript, but also French, English, Turkish, Russian, and a bit of German and Spanish. So yes, I’m basically a multilingual firewall! 🛡️<br><br> Fun fact: I once tried to explain cybersecurity to my grandma and now she thinks I’m a secret agent. Mission accomplished!😄🎯<br><br>Feel free to explore my projects or send a message in any of my languages. I promise I won’t hack you — unless it’s ethical. 😉<br><br>
+# 💫 About Me
+👋 Helloooo there! I’m Omer, a cybersecurity enthusiast who loves cracking codes. When I’m not busy defending networks from cyber baddies, you’ll find me juggling multiple languages — not just Python, C and JavaScript, but also French, English, Turkish, Russian, and a bit of German and Spanish. So yes, I’m basically a multilingual firewall! 🛡️<br><br> Fun fact: I once tried to explain cybersecurity to my grandma and now she thinks I’m a secret agent. Mission accomplished!😄🎯<br><br>Feel free to explore my projects or send a message in any of my languages. I promise I won’t hack you — unless it’s ethical. 😉<br><br>
 
 
 ## 🌐 Socials:
